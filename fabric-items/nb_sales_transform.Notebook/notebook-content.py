@@ -29,7 +29,7 @@
    data = {
        "order_id": [1, 2, 3],
        "region": ["South", "North", "West"],
-       "amount": [250, 400, 150],
+       "amount": [300, 400, 150],
    }
    df = pd.DataFrame(data)
    print("Total sales:", df["amount"].sum())
