@@ -14,7 +14,7 @@
           "secureInput": false,
           "secureOutput": false
         },
-        "name": "Notebook1",
+        "name": "Run Sales Transform",
         "dependsOn": []
       }
     ]
